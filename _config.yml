@@ -1,8 +1,8 @@
-title: Aulas de reforço de Matemática
-logo: /assets/logo.png
-author: Dennis Iaccino
-  name: dennis-iaccino
-  email: iaccino89@gmail.com
+title:Aulas de reforço de Matemática
+logo:/assets/logo.png
+author:Dennis Iaccino
+  name:dennis-iaccino
+  email:iaccino89@gmail.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
