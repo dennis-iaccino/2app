@@ -1,17 +1,14 @@
-title:Aulas de reforço de Matemática
-logo: /assets/logo.png
-author: Dennis Iaccino
-  name: dennis-iaccino
-  email: iaccino89@gmail.com
+title: Minimal theme
+logo: /assets/img/logo.png
+description: Aulas de reforço de matemática para os níveis fundamental, médio e superior.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
-description: >
-  Aulas de reforço de matemática para os níveis fundamental, médio e superior. Solicite seu orçamento!
 
 # Build settings
-
-theme: minima
 
 plugins:
   - jekyll-feed
